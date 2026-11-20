@@ -1,12 +1,9 @@
 <p align="center">
-  <img src="assets/logo.png" alt="True" width="96" height="96" />
+  <img src="assets/capa.png" alt="True, o gerenciador de downloads moderno para Windows" width="900" />
 </p>
 
-<h1 align="center">True</h1>
-
 <p align="center">
-  <b>O gerenciador de downloads moderno para Windows.</b><br />
-  Rápido, bonito, com torrents, retomada inteligente e atualização automática.
+  <b>Rápido, bonito, com torrents, retomada inteligente e atualização automática.</b>
 </p>
 
 <p align="center">
@@ -21,7 +18,7 @@
 </p>
 
 <p align="center">
-  <img src="assets/main.png" alt="Tela principal do True" width="820" />
+  <img src="assets/tela.png" alt="Tela principal do True" width="900" />
 </p>
 
 ---
@@ -67,7 +64,15 @@
 | **Ranking e perfil** | Moldura, banner, cor e efeito do nome, cartão de perfil, selo dourado e badges |
 
 <p align="center">
-  <img src="assets/ranking.png" alt="Ranking Premium com perfis personalizados" width="720" />
+  <img src="assets/ranking-slide.png" alt="Ranking Premium com perfis personalizados" width="900" />
+</p>
+
+<p align="center">
+  <img src="assets/recursos.png" alt="O que o True faz" width="900" />
+</p>
+
+<p align="center">
+  <img src="assets/por-tras.png" alt="Por trás do True: app em Rust e Tauri, Supabase e GitHub Actions" width="900" />
 </p>
 
 ## Como instalar
