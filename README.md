@@ -46,6 +46,7 @@
 | **Espaço em disco** | Quanto resta no disco da sua pasta de downloads |
 | **Abrir com o Windows** | Inicia escondido na bandeja |
 | **8 idiomas** | Português, English, Español, Français, Deutsch, Italiano, Русский e 中文 |
+| **Ranking** | Veja onde você está entre os usuários do True, com badges (entre com a sua conta) |
 | **Atualização automática** | Detecta e instala versões novas com um clique |
 
 ### Premium
@@ -61,7 +62,7 @@
 | **Notas nos downloads** | Anote o que quiser em cada arquivo |
 | **Notificações personalizadas** | Sons, horário silencioso e tamanho mínimo |
 | **Temas exclusivos** | Graphite, Midnight, Sand, Gold e o **Dark Glass** com transparência |
-| **Ranking e perfil** | Moldura, banner, cor e efeito do nome, cartão de perfil, selo dourado e badges |
+| **Perfil no ranking** | Moldura, banner, cor e efeito do nome, cartão de perfil e selo dourado |
 
 <p align="center">
   <img src="assets/ranking-slide.png" alt="Ranking Premium com perfis personalizados" width="900" />
