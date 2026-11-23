@@ -72,10 +72,6 @@
   <img src="assets/recursos.png" alt="O que o True faz" width="900" />
 </p>
 
-<p align="center">
-  <img src="assets/por-tras.png" alt="Por trás do True: app em Rust e Tauri, Supabase e GitHub Actions" width="900" />
-</p>
-
 ## Como instalar
 
 1. Abra a página de [**Releases**](../../releases/latest) e baixe o arquivo `True.Download_..._x64-setup.exe`.
