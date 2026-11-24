@@ -144,4 +144,6 @@ The source code is private; this repository only distributes the installers and 
 
 </details>
 
+<p align="center"><sub><a href="TERMOS.md">Termos de Uso</a> · <a href="PRIVACIDADE.md">Política de Privacidade</a></sub></p>
+
 <p align="center"><sub>Feito com carinho · True</sub></p>
