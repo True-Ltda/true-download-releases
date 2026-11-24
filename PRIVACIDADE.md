@@ -4,8 +4,8 @@
 
 Esta Política explica quais dados pessoais o **True Download** (o "App"), a extensão de navegador do True e os serviços ligados a eles tratam, por quê, com quem são compartilhados e como você exerce os seus direitos. Ela segue a Lei Geral de Proteção de Dados (Lei nº 13.709/2018, "LGPD").
 
-**Controladora:** True Ltda., CNPJ [PREENCHER], endereço [PREENCHER].
-**Canal de privacidade (encarregado):** [PREENCHER e-mail].
+**Controlador:** a equipe do True, projeto mantido por seus desenvolvedores como pessoas físicas, no Brasil. Ainda não há empresa constituída; quando houver, esta Política será atualizada com os dados dela.
+**Canal de privacidade:** dentro do App, em Configurações > Suporte (Enviar feedback), escolhendo "Outro" e começando a mensagem com "Privacidade". O pedido fica ligado à sua conta, então não precisamos de outros dados para confirmar que é você.
 
 ## 1. Resumo
 
@@ -70,7 +70,7 @@ O que é **visível a outros usuários:** só o perfil do ranking (item 2.3). O 
 
 ## 5. Seus direitos (LGPD, art. 18)
 
-Você pode pedir: confirmação e acesso aos seus dados, correção, anonimização ou exclusão, portabilidade, informação sobre com quem compartilhamos, e revogação do consentimento (por exemplo, ocultar os seus totais do ranking nas Configurações). Escreva para o canal de privacidade acima; respondemos em até 15 dias. Você também pode reclamar à Autoridade Nacional de Proteção de Dados (ANPD).
+Você pode pedir: confirmação e acesso aos seus dados, correção, anonimização ou exclusão, portabilidade, informação sobre com quem compartilhamos, e revogação do consentimento (por exemplo, ocultar os seus totais do ranking nas Configurações). Use o canal de privacidade acima; respondemos em até 15 dias. Você também pode reclamar à Autoridade Nacional de Proteção de Dados (ANPD).
 
 ## 6. Segurança
 

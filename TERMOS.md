@@ -2,7 +2,7 @@
 
 **Última atualização:** 24 de novembro de 2026
 
-Estes Termos regem o uso do **True Download** (o "App"), da extensão de navegador do True e dos serviços ligados a eles (conta, licença Premium e ranking), oferecidos pela **True Ltda.**, CNPJ [PREENCHER], com endereço em [PREENCHER] ("True", "nós").
+Estes Termos regem o uso do **True Download** (o "App"), da extensão de navegador do True e dos serviços ligados a eles (conta, licença Premium e ranking), oferecidos pela equipe do True ("True", "nós"). O True ainda é mantido por seus desenvolvedores como pessoas físicas, no Brasil; quando a empresa for constituída, estes Termos serão atualizados com os dados dela.
 
 Ao instalar ou usar o App, você concorda com estes Termos e com a [Política de Privacidade](PRIVACIDADE.md). Se não concordar, não use o App.
 
@@ -24,7 +24,7 @@ Você precisa ter pelo menos 18 anos, ou ter autorização dos pais ou responsá
 
 - Concedemos a você uma licença pessoal, gratuita (versão gratuita) ou paga (Premium), não exclusiva e intransferível para instalar e usar o App.
 - Você não pode vender, alugar ou redistribuir o App, nem tentar contornar a verificação da licença, as assinaturas digitais de atualização ou as proteções do ranking.
-- O App, a marca True, o símbolo 真 e o design pertencem à True Ltda.
+- O App, a marca True, o símbolo 真 e o design pertencem aos criadores do True.
 
 ## 5. Premium
 
@@ -32,7 +32,7 @@ Você precisa ter pelo menos 18 anos, ou ter autorização dos pais ou responsá
 - **Pagamento** pelo Mercado Pago. Não recebemos nem guardamos os dados do seu cartão.
 - **Sem renovação automática:** cada compra vale pelo período comprado. Ao "Renovar licença", o novo período é somado ao que ainda resta.
 - **Ativação:** a chave chega por e-mail e funciona em **1 PC por vez**. Ao ativar em outro PC, o anterior é desconectado.
-- **Vitalício:** vale enquanto o True Download existir e for mantido pela True Ltda.
+- **Vitalício:** vale enquanto o True Download existir e for mantido pela equipe do True.
 - **Direito de arrependimento:** por ser uma compra pela internet, você pode desistir em até **7 dias** após a compra e receber o valor de volta (art. 49 do Código de Defesa do Consumidor). Peça pelo canal de contato abaixo; a licença é revogada no reembolso.
 
 ## 6. Uso permitido
@@ -82,4 +82,4 @@ Estes Termos seguem as leis do Brasil. Fica eleito o foro do domicílio do consu
 
 ## 15. Contato
 
-E-mail: [PREENCHER] · Feedback: Configurações > Suporte, dentro do App.
+Dentro do App: Configurações > Suporte (Enviar feedback). Fora dele: https://github.com/yanghyperx/true-download-releases/issues (não publique dados pessoais nas issues, que são públicas).
