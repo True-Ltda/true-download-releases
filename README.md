@@ -11,8 +11,8 @@
 </p>
 
 <p align="center">
-  <a href="../../releases/latest"><img alt="Versão" src="https://img.shields.io/github/v/release/yanghyperx/true-download-releases?label=vers%C3%A3o&color=f5c542" /></a>
-  <img alt="Downloads" src="https://img.shields.io/github/downloads/yanghyperx/true-download-releases/total?label=downloads&color=444" />
+  <a href="../../releases/latest"><img alt="Versão" src="https://img.shields.io/github/v/release/True-Ltda/true-download-releases?label=vers%C3%A3o&color=f5c542" /></a>
+  <img alt="Downloads" src="https://img.shields.io/github/downloads/True-Ltda/true-download-releases/total?label=downloads&color=444" />
   <img alt="Windows 10 e 11" src="https://img.shields.io/badge/Windows-10%20%7C%2011-0078d6" />
   <img alt="Idiomas" src="https://img.shields.io/badge/idiomas-8-444" />
 </p>
