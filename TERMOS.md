@@ -82,4 +82,4 @@ Estes Termos seguem as leis do Brasil. Fica eleito o foro do domicílio do consu
 
 ## 15. Contato
 
-Dentro do App: Configurações > Suporte (Enviar feedback). Fora dele: https://github.com/yanghyperx/true-download-releases/issues (não publique dados pessoais nas issues, que são públicas).
+Dentro do App: Configurações > Suporte (Enviar feedback). Fora dele: https://github.com/True-Ltda/true-download-releases/issues (não publique dados pessoais nas issues, que são públicas).
